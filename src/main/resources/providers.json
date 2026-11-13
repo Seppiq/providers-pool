@@ -1,0 +1,4 @@
+[
+  {"id": "provider-a", "baseUrl": "https://a.example.com", "apiKey": "key-a"},
+  {"id": "provider-b", "baseUrl": "https://b.example.com", "apiKey": "key-b"}
+]
